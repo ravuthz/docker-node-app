@@ -1,0 +1,16 @@
+{
+  "name": "docker-node-app",
+  "version": "1.0.0",
+  "description": "A node.js app that runs inside a docker contianer but lives outside",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": "",
+  "keywords": [
+    "docker",
+    "nodejs"
+  ],
+  "author": "",
+  "license": "MIT"
+}
